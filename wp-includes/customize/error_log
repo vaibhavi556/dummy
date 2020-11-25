@@ -1,0 +1,2 @@
+[01-Aug-2020 08:05:31 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/themagegurus/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 09:30:59 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/themagegurus/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17

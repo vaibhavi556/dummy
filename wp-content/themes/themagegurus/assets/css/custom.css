@@ -1,0 +1,21 @@
+.parallax{
+	background-image:url(../images/main-bg.jpg); 
+}
+.about-content:after{ 
+	background: url(../images/shadow.png) center bottom no-repeat; 
+}
+.bg.hover-bg:hover a, .bg.hover-bg.active a, .bg.hover-bg.current-menu-item a{
+	color: #e64e4e;
+}
+.site-header .logo{
+	margin-top: 10px;
+}
+.stellarnav.dark li.hover-bg a{
+	padding: 35px 0 15px;
+}
+.sticky .stellarnav.dark li.hover-bg a{
+	padding: 22px 0 15px;	
+}
+.sticky .stellarnav.dark li.hover-bg ul li a{
+	padding: 10px 15px 0;
+}

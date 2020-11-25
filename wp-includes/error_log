@@ -1,0 +1,13 @@
+[29-Jul-2020 15:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/themagegurus/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/themagegurus/public_html/wp-includes/update.php on line 813
+[29-Jul-2020 15:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/themagegurus/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/themagegurus/public_html/wp-includes/update.php on line 813
+[30-Jul-2020 19:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/themagegurus/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/themagegurus/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 01:18:05 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/themagegurus/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23

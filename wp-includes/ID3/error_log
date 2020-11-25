@@ -1,0 +1,1 @@
+[26-Jun-2020 15:35:54 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/themagegurus/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
